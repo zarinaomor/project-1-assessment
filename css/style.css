@@ -1,0 +1,36 @@
+body {
+    margin: 50px auto;
+    font-size: 80px;
+    text-align: center;
+}
+#plusBtn {
+    background-color: grey;
+    padding: 30px;
+    font-size: 20px;
+    color: black;
+
+}
+
+#minusBtn {
+    background-color: grey;
+    padding: 30px;
+    font-size: 20px;
+    color: black;
+
+}
+
+#input-box {
+    padding: 20px;
+    border: 5px grey solid;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: right;
+}
+
+#plusBtn:hover {
+    background-color: white;
+}
+
+#minusBtn:hover {
+    background-color: white;
+}
